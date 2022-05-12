@@ -1,3 +1,3 @@
 # SummatorAverage
 
-## SummatorAverage Tests
+## Unit Tests

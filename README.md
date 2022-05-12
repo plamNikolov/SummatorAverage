@@ -1,0 +1,3 @@
+# SummatorAverage
+
+## SummatorAverage Tests
